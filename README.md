@@ -5,7 +5,7 @@ Here is my first App I'm happy to share my progress with everyone.
 
 More details to come....
 
-Screen Shot 2020-01-24 at 8.00.16 PM.png
+![Screenshot](screenshot.png)
 
 A new Flutter project.
 

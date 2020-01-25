@@ -5,7 +5,7 @@ Here is my first App I'm happy to share my progress with everyone.
 
 More details to come....
 
-![Screenshot](ScreenShot2020-01-24at8.00.16 PM.png)
+![Screenshot](https://github.com/sinyozz/TesterMunchies/blob/master/Screen%20Shot%202020-01-24%20at%208.00.16%20PM.png)
 
 A new Flutter project.
 

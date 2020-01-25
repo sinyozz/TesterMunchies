@@ -1,4 +1,4 @@
-# game_app
+# Tester Munchies App
 
 A new Flutter project.
 

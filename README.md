@@ -1,6 +1,7 @@
 # Tester Munchies App
 Hello Everyone!
-Here is my first App I'm happy to share my progress with everyone.
+Here is my first App with Flutter and dart
+I'm happy to share my progress with everyone.
 
 
 More details to come....
